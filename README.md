@@ -26,21 +26,20 @@ Make sure you have **Node.js** and **npm** installed. You can download them from
 Navigate into your project folder:
 
 bash
-Copy
-Edit
+
 cd your-repo-name
+
 Install dependencies:
 
 bash
-Copy
-Edit
+
 npm install
 Start the development server:
 
 bash
-Copy
-Edit
+
 npm start
+
 The application will be running at http://localhost:3000.
 
 Usage
